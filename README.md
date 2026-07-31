@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./glitch_banner.svg" width="100%" alt="glitch banner"/>
+</div>
 # 👋 john robert
 
 ### `Information Security | Networking | Systems`
