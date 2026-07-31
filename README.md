@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./glitch_banner.svg" width="100%" alt="glitch banner"/>
-</div>
-<div align="center">
 
 # 👋 john robert
 
